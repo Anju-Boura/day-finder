@@ -1,2 +1,3 @@
 # day-finder
-it is an android app which is used to find the day of any date you want.
+* It is a android application which finds a day corresponding to a given date.
+* it builts by using java and android studio
